@@ -91,5 +91,7 @@
     <string name="backup_transport_title">Yedekleme sağlayıcısını seçin</string>
     <string name="connected_tws_device_saved_title">Kaydedilmiş Kulaklıklar</string>
     <string name="fast_charging_title">Hızlı şarj oluyor</string>
+    
+    <string name="amyrom_version">amyROM Sürümü</string>
     <string name="fast_charging_summary">Cihazın şarj ederken ürettiği ısıyı azaltmak veya pilin ömrünü uzatmak için devre dışı bırakın</string>
 </resources>
